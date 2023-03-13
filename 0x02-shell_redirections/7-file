@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "" >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+Cat -3 iacta | tail -1
