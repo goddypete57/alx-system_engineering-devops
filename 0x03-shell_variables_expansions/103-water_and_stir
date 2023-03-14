@@ -1,0 +1,2 @@
+#!/bin/bash
+BESTCHOL_HEX=$(printf '%x\n' $((${WATER_DEC} + ${STIR_DEC})))
